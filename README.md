@@ -1,4 +1,4 @@
-This repository is inspired by the article https://openreview.net/pdf?id=KRLUvxh8uaX
+This repository is inspired by the article https://openreview.net/pdf?id=KRLUvxh8uaX.
 A clear example of how VLM works when changing compositional information is presented. Augmentations for NegCLIP training are realised.
 
 Some useful links:
