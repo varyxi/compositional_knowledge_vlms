@@ -5,3 +5,4 @@ Some useful links:
 CLIP model: https://huggingface.co/openai/clip-vit-base-patch32  
 CTC loss realization: https://github.com/mlfoundations/open_clip/blob/main/src/open_clip/loss.py  
 Flickr Dataset: https://www.kaggle.com/datasets/hsankesara/flickr-image-dataset
+NegCLIP training: https://github.com/vinid/neg_clip
